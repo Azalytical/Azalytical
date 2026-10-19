@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-labelledby="title description">
+  <title id="title">Azamat Juranbayev</title>
+  <desc id="description">Software developer working with Roblox, Luau, AI and automation. A dark navy banner with clear white typography and restrained geometric lines.</desc>
+  <rect width="1280" height="300" fill="#0b1524"/>
+  <g fill="none" stroke="#27465f" stroke-width="1">
+    <path d="M1042 40H1196L1240 84V260H1086"/>
+    <path d="M1102 40V216H1240"/>
+    <path d="M1150 40V168H1240"/>
+  </g>
+  <circle cx="1102" cy="216" r="3" fill="#719dbb"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="72" y="132" fill="#f5f8fc" font-size="56" font-weight="600" letter-spacing="-1.2">Azamat Juranbayev</text>
+    <text x="75" y="192" fill="#c5d7e5" font-size="26" font-weight="400">Software Development · Roblox / Luau · AI &amp; Automation</text>
+  </g>
+</svg>
